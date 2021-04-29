@@ -1,0 +1,43 @@
+body{
+	margin:0;
+	padding:0;
+}
+header{
+	background: #0c2461;
+}
+.container{
+/*	margin-bottom: 10px;*/
+	padding:5px 0;
+}
+.row{
+	margin: 10px 0;
+}
+.box{
+	min-height: 100px;
+	background: #576574;
+}
+h2{
+	margin:0;
+	padding:0;
+	text-align: center;
+	line-height: 100px;
+}
+.c-body{
+	background: #38ada9;
+}
+.box2{
+	min-height: 100px;
+	background: #82ccdd;
+}
+.box3{
+	min-height: 100px;
+	background: #fa983a;
+}
+.banner{
+	background: #e55039;
+	height: 200px;
+}
+.box4{
+	min-height: 100px;
+	background: #48dbfb;
+}
